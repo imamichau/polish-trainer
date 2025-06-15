@@ -454,6 +454,76 @@
       "transcription": "",
       "image": "",
       "isNew": true
+    },
+    {
+      "pl": "Bardzo się cieszę",
+      "ru": "Я счастлив",
+      "transcription": "барзо се цеше",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Chińska książka",
+      "ru": "Китайская книга",
+      "transcription": "хиньска ксьонжка",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Jedzenie",
+      "ru": "Еда",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Japońskie jedzenie",
+      "ru": "Японская еда",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Kawa",
+      "ru": "Кофе",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Gorąca kawa",
+      "ru": "Горячий кофе",
+      "transcription": "горонца кава",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Gazeta",
+      "ru": "Газета",
+      "transcription": "газэта",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Angielska gazeta",
+      "ru": "Английская газета",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Aktywna",
+      "ru": "Активная",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Przyjazna",
+      "ru": "Дружелюбная",
+      "transcription": "",
+      "image": "",
+      "isNew": true
     }
   ]
 }
