@@ -524,6 +524,27 @@
       "transcription": "",
       "image": "",
       "isNew": true
+    },
+    {
+      "pl": "Zabawny",
+      "ru": "забавный",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Miły",
+      "ru": "добрый",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Bystry",
+      "ru": "умный",
+      "transcription": "",
+      "image": "",
+      "isNew": true
     }
   ]
 }
