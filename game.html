@@ -1,31 +1,52 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Игра - Тренажер польских слов</title>
+    <title>Game - Polish Words Trainer</title>
     <link rel="stylesheet" href="css/style.css">
+    <script>
+        // Basic check if script is loading
+        console.log('Game page loaded');
+        
+        // Check if script loads
+        window.addEventListener('error', function(e) {
+            if (e.target.tagName === 'SCRIPT') {
+                console.error('Script loading error:', e);
+            }
+        }, true);
+    </script>
 </head>
 <body>
     <div class="container">
         <div class="game-container">
-            <h1>Тренажер польских слов</h1>
+            <h1>Polish Words Trainer</h1>
             
             <div class="stats">
                 <div class="stat">
-                    Правильно: <span class="correct-answers">0</span>
+                    Correct: <span class="correct-answers">0</span>
                 </div>
                 <div class="stat">
-                    Неправильно: <span class="incorrect-answers">0</span>
+                    Incorrect: <span class="incorrect-answers">0</span>
                 </div>
             </div>
             
             <div class="question"></div>
             <div class="options-grid"></div>
             
-            <a href="index.html" class="back-button">Назад</a>
+            <div class="dictionary-section">
+                <a href="index.html" class="back-button">Back to menu</a>
+            </div>
         </div>
     </div>
-    <script src="js/app.js"></script>
+    <script>
+        // Check if DOM is ready
+        console.log('DOM ready, loading app.js...');
+    </script>
+    <script src="./js/app.js"></script>
+    <script>
+        // Check if script loaded
+        console.log('app.js script tag processed');
+    </script>
 </body>
 </html> 

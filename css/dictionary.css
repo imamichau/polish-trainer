@@ -1,0 +1,48 @@
+.dictionary-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: white;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    font-size: 0.95rem;
+}
+
+.dictionary-table th,
+.dictionary-table td {
+    padding: 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.dictionary-table th {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.dictionary-table tr:last-child td {
+    border-bottom: none;
+}
+
+.dictionary-table tr:hover {
+    background-color: #f8f9fa;
+}
+
+.transcription {
+    color: #666;
+    font-style: italic;
+}
+
+@media (max-width: 480px) {
+    .dictionary-table {
+        font-size: 0.9rem;
+    }
+
+    .dictionary-table th,
+    .dictionary-table td {
+        padding: 0.6rem;
+    }
+} 

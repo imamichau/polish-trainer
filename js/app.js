@@ -7,29 +7,57 @@ let gameMode = null;
 // Initialize the game
 async function initGame() {
     try {
-        const response = await fetch('words.json');
+        const response = await fetch('./words.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
         const data = await response.json();
-        words = data.words;
         
-        // Get game mode from URL parameters
+        if (!data || !Array.isArray(data.words)) {
+            throw new Error('Invalid data format: words array not found');
+        }
+        
+        words = data.words;
+        console.log('Words loaded:', words.length);
+        
         const urlParams = new URLSearchParams(window.location.search);
         gameMode = urlParams.get('mode');
         
-        if (gameMode) {
-            showNextQuestion();
-            updateStats();
+        if (!gameMode) {
+            console.error('No game mode specified');
+            return;
         }
+        
+        if (words.length === 0) {
+            console.error('No words available');
+            return;
+        }
+        
+        showNextQuestion();
+        updateStats();
     } catch (error) {
         console.error('Error loading words:', error);
+        document.querySelector('.game-container').innerHTML = `
+            <div class="error-message">
+                Error loading the game. Please try refreshing the page.
+            </div>
+        `;
     }
 }
 
 // Show next question
 function showNextQuestion() {
-    // Get random word
+    if (!Array.isArray(words) || words.length === 0) {
+        console.error('No words available for questions');
+        return;
+    }
+
+    if (!gameMode) {
+        console.error('No game mode specified');
+        return;
+    }
+
     currentWord = words[Math.floor(Math.random() * words.length)];
-    
-    // Get question and options based on game mode
     let question, options;
     
     switch (gameMode) {
@@ -46,12 +74,19 @@ function showNextQuestion() {
             options = getRandomImageOptions(currentWord.image);
             break;
         default:
+            console.error('Invalid game mode:', gameMode);
             return;
     }
     
-    // Update UI
-    document.querySelector('.question').textContent = question;
+    const questionElement = document.querySelector('.question');
     const optionsContainer = document.querySelector('.options-grid');
+    
+    if (!questionElement || !optionsContainer) {
+        console.error('Required DOM elements not found');
+        return;
+    }
+    
+    questionElement.textContent = question;
     optionsContainer.innerHTML = '';
     
     if (gameMode === 'pl-to-image') {
@@ -73,7 +108,6 @@ function showNextQuestion() {
         });
     }
     
-    // Clear hint if exists
     const hint = document.querySelector('.hint');
     if (hint) hint.remove();
 }
@@ -131,9 +165,9 @@ function checkAnswer(selectedAnswer) {
 function showHint() {
     const hint = document.createElement('div');
     hint.className = 'hint';
-    hint.textContent = `Правильный ответ: ${gameMode === 'pl-to-ru' ? currentWord.ru :
+    hint.textContent = `Correct answer: ${gameMode === 'pl-to-ru' ? currentWord.ru :
                                               gameMode === 'ru-to-pl' ? currentWord.pl :
-                                              'Попробуйте еще раз'}`;
+                                              'Try again'}`;
     document.querySelector('.game-container').appendChild(hint);
 }
 
