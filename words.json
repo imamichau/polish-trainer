@@ -4,391 +4,456 @@
       "pl": "Cześć",
       "ru": "Привет",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Dziękuję",
       "ru": "Спасибо",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Miasto",
       "ru": "Город",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Pies",
       "ru": "Пес",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Chleb",
       "ru": "Хлеб",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Dom",
       "ru": "Дом",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Książka",
       "ru": "Книга",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Impreza",
       "ru": "Вечеринка",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Okulary przeciwsłoneczne",
       "ru": "Солнечные очки",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Smockód",
       "ru": "Машина",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Koszula",
       "ru": "Рубашка",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Bank",
       "ru": "Банк",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Moja rodzina",
       "ru": "Моя семья",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Kocham Cię!",
       "ru": "Люблю тебя",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Na zdrowie!",
       "ru": "На здоровье!",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Kobieta",
       "ru": "Женщина",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Mężczyzna",
       "ru": "Мужчина",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Dziewczyna",
       "ru": "Девочка",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Chłopak",
       "ru": "Мальчик",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Chłopiec",
       "ru": "Мальчик",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Niemcy",
       "ru": "Германия",
       "transcription": "Ниемцы",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Chiny",
       "ru": "Китай",
       "transcription": "Хины",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Angielski",
       "ru": "Английский",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Niemiecki",
       "ru": "Немецкий",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Chiński",
       "ru": "Китайский",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Japoński",
       "ru": "Японский",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Przyjaciel",
       "ru": "Друг",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Rodzina",
       "ru": "Семья",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Matka",
       "ru": "Мать",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Ojciec",
       "ru": "Отец",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Siostra",
       "ru": "Сестра",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Brat",
       "ru": "Брат",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Imię",
       "ru": "Имя",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Nazwisko",
       "ru": "Фамилия",
       "transcription": "назвиско",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Wiek",
       "ru": "Возраст",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Osoba",
       "ru": "Персона",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Arbuz",
       "ru": "Арбуз",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Gołąb",
       "ru": "Голубь",
       "transcription": "говомб",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Ciasto",
       "ru": "Торт",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Liść",
       "ru": "Лист",
       "transcription": "лищч",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Morze",
       "ru": "Море",
       "transcription": "може",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Fotel",
       "ru": "Кресло",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Guzik",
       "ru": "Пуговица",
       "transcription": "гузик",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Cześć",
       "ru": "Привет, пока",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Dzięnkuję",
       "ru": "Спасибо",
       "transcription": "В конце ę читается как э",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Proszę",
       "ru": "Подажуйста",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": false
     },
     {
       "pl": "Lub",
       "ru": "Или",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Duże",
       "ru": "Большой",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Garaż",
       "ru": "Гараж",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Małe",
       "ru": "Маленький",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Lubię",
       "ru": "Мне нравится",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Spać",
       "ru": "Спать",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "On śpi",
       "ru": "Он спит",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Robić zakupy",
       "ru": "Делать покупки",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Chodzę na zakupy",
       "ru": "Я хожу на за покупками",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Oglądać film",
       "ru": "Смотреть фильм",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Oglądasz film",
       "ru": "Ты смотришь фильм",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Mòwić",
       "ru": "Говорить",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Mòwisz",
       "ru": "Ты говоришь",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Biegać",
       "ru": "Бегать",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Ona biega",
       "ru": "Она бегает",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Dorosły",
       "ru": "Взрослый",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Niemowlę",
       "ru": "Младенец",
       "transcription": "нимовле",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Dziecko",
       "ru": "Ребенок",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     },
     {
       "pl": "Nastolatek",
       "ru": "Подросток",
       "transcription": "",
-      "image": ""
+      "image": "",
+      "isNew": true
     }
   ]
 }

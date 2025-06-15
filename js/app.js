@@ -65,21 +65,49 @@ function showNextQuestion() {
         return;
     }
 
-    currentWord = words[Math.floor(Math.random() * words.length)];
+    // Filter words based on game mode
+    let availableWords = words;
+    if (gameMode.includes('-new')) {
+        availableWords = words.filter(word => word.isNew);
+        if (availableWords.length === 0) {
+            document.querySelector('.game-container').innerHTML = `
+                <div class="message">
+                    No new words available. Add some new words to practice!
+                    <br><br>
+                    <a href="index.html" class="back-button">Back to menu</a>
+                </div>
+            `;
+            return;
+        }
+    }
+
+    currentWord = availableWords[Math.floor(Math.random() * availableWords.length)];
     let question, options;
     
     switch (gameMode) {
         case 'pl-to-ru':
+        case 'pl-to-ru-new':
             question = currentWord.pl;
             options = getRandomOptions(currentWord.ru, 'ru');
             break;
         case 'ru-to-pl':
+        case 'ru-to-pl-new':
             question = currentWord.ru;
             options = getRandomOptions(currentWord.pl, 'pl');
             break;
         case 'pl-to-image':
             question = currentWord.pl;
             options = getRandomImageOptions(currentWord.image);
+            break;
+        case 'pl-to-ru-input':
+        case 'pl-to-ru-input-new':
+            question = currentWord.pl;
+            options = null;
+            break;
+        case 'ru-to-pl-input':
+        case 'ru-to-pl-input-new':
+            question = currentWord.ru;
+            options = null;
             break;
         default:
             console.error('Invalid game mode:', gameMode);
@@ -106,6 +134,37 @@ function showNextQuestion() {
             img.onclick = () => checkAnswer(option);
             optionsContainer.appendChild(img);
         });
+    } else if (gameMode === 'pl-to-ru-input' || gameMode === 'ru-to-pl-input' || 
+               gameMode === 'pl-to-ru-input-new' || gameMode === 'ru-to-pl-input-new') {
+        const inputContainer = document.createElement('div');
+        inputContainer.className = 'input-container';
+        
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.className = 'answer-input';
+        input.placeholder = (gameMode === 'pl-to-ru-input' || gameMode === 'pl-to-ru-input-new') ? 
+            'Enter Russian translation' : 'Enter Polish translation';
+        
+        const submitButton = document.createElement('button');
+        submitButton.textContent = 'Check';
+        submitButton.className = 'submit-button';
+        submitButton.onclick = () => {
+            const userAnswer = input.value.trim().toLowerCase();
+            const correctAnswer = (gameMode === 'pl-to-ru-input' || gameMode === 'pl-to-ru-input-new') ? 
+                currentWord.ru.toLowerCase() : currentWord.pl.toLowerCase();
+            checkAnswer(userAnswer, correctAnswer);
+        };
+        
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                submitButton.click();
+            }
+        });
+        
+        inputContainer.appendChild(input);
+        inputContainer.appendChild(submitButton);
+        optionsContainer.appendChild(inputContainer);
+        input.focus();
     } else {
         options.forEach(option => {
             const button = document.createElement('button');
@@ -153,12 +212,14 @@ function getRandomImageOptions(correctImage) {
 }
 
 // Check answer
-function checkAnswer(selectedAnswer) {
-    const correctAnswer = gameMode === 'pl-to-ru' ? currentWord.ru :
-                         gameMode === 'ru-to-pl' ? currentWord.pl :
-                         currentWord.image;
+function checkAnswer(selectedAnswer, correctAnswer = null) {
+    const expectedAnswer = correctAnswer || (
+        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' ? currentWord.ru :
+        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' ? currentWord.pl :
+        currentWord.image
+    );
     
-    if (selectedAnswer === correctAnswer) {
+    if (selectedAnswer.toLowerCase() === expectedAnswer.toLowerCase()) {
         correctAnswers++;
         showNextQuestion();
     } else {
@@ -173,9 +234,13 @@ function checkAnswer(selectedAnswer) {
 function showHint() {
     const hint = document.createElement('div');
     hint.className = 'hint';
-    hint.textContent = `Correct answer: ${gameMode === 'pl-to-ru' ? currentWord.ru :
-                                              gameMode === 'ru-to-pl' ? currentWord.pl :
-                                              'Try again'}`;
+    hint.textContent = `Correct answer: ${
+        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' || 
+        gameMode === 'pl-to-ru-input' || gameMode === 'pl-to-ru-input-new' ? currentWord.ru :
+        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' || 
+        gameMode === 'ru-to-pl-input' || gameMode === 'ru-to-pl-input-new' ? currentWord.pl :
+        'Try again'
+    }`;
     document.querySelector('.game-container').appendChild(hint);
 }
 
