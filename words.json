@@ -1,0 +1,46 @@
+{
+  "words": [
+    {
+      "pl": "kot",
+      "ru": "кот",
+      "transcription": "kot",
+      "image": "images/kot.jpg"
+    },
+    {
+      "pl": "pies",
+      "ru": "собака",
+      "transcription": "pʲes",
+      "image": "images/pies.jpg"
+    },
+    {
+      "pl": "dom",
+      "ru": "дом",
+      "transcription": "dɔm",
+      "image": "images/dom.jpg"
+    },
+    {
+      "pl": "książka",
+      "ru": "книга",
+      "transcription": "kɕɔ̃ʐka",
+      "image": "images/ksiazka.jpg"
+    },
+    {
+      "pl": "samochód",
+      "ru": "машина",
+      "transcription": "samɔxut",
+      "image": "images/samochod.jpg"
+    },
+    {
+      "pl": "drzewo",
+      "ru": "дерево",
+      "transcription": "dʒɛvɔ",
+      "image": "images/drzewo.jpg"
+    },
+    {
+      "pl": "woda",
+      "ru": "вода",
+      "transcription": "vɔda",
+      "image": "images/woda.jpg"
+    }
+  ]
+} 

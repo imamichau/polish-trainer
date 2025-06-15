@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Словарь - Тренажер польских слов</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .dictionary-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: white;
+            box-shadow: var(--box-shadow);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+        }
+
+        .dictionary-table th,
+        .dictionary-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .dictionary-table th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: 500;
+        }
+
+        .dictionary-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .dictionary-table tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        .transcription {
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Словарь польских слов</h1>
+        <table class="dictionary-table">
+            <thead>
+                <tr>
+                    <th>Польский</th>
+                    <th>Русский</th>
+                    <th>Транскрипция</th>
+                </tr>
+            </thead>
+            <tbody id="dictionary-body">
+                <!-- Words will be loaded here -->
+            </tbody>
+        </table>
+        <a href="index.html" class="back-button">Назад</a>
+    </div>
+    <script>
+        async function loadDictionary() {
+            try {
+                const response = await fetch('words.json');
+                const data = await response.json();
+                const tbody = document.getElementById('dictionary-body');
+                
+                data.words.forEach(word => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${word.pl}</td>
+                        <td>${word.ru}</td>
+                        <td class="transcription">${word.transcription}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            } catch (error) {
+                console.error('Error loading dictionary:', error);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadDictionary);
+    </script>
+</body>
+</html> 
