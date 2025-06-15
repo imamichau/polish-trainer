@@ -3,6 +3,10 @@ let currentWord = null;
 let correctAnswers = 0;
 let incorrectAnswers = 0;
 let gameMode = null;
+let wordQueue = [];
+let answeredWords = new Map(); // Map to track word status and when they can be reintroduced
+let totalWords = 0; // Total words available for current game mode
+let answeredWordsCount = 0; // Count of words that have been answered
 
 // Initialize the game
 async function initGame() {
@@ -26,7 +30,6 @@ async function initGame() {
         
         words = data.words;
         console.log('Words loaded successfully. Total words:', words.length);
-        console.log('First few words:', words.slice(0, 5));
         
         const urlParams = new URLSearchParams(window.location.search);
         gameMode = urlParams.get('mode');
@@ -40,6 +43,9 @@ async function initGame() {
             console.error('No words available');
             return;
         }
+
+        // Initialize word queue based on game mode
+        initializeWordQueue();
         
         showNextQuestion();
         updateStats();
@@ -51,6 +57,66 @@ async function initGame() {
             </div>
         `;
     }
+}
+
+// Initialize word queue based on game mode
+function initializeWordQueue() {
+    let availableWords = words;
+    if (gameMode.includes('-new')) {
+        availableWords = words.filter(word => word.isNew === true);
+        if (availableWords.length === 0) {
+            document.querySelector('.game-container').innerHTML = `
+                <div class="message">
+                    No new words available. Add some new words to practice!
+                    <br><br>
+                    <a href="index.html" class="back-button">Back to menu</a>
+                </div>
+            `;
+            return;
+        }
+    }
+    
+    // Shuffle the words and create initial queue
+    wordQueue = shuffleArray([...availableWords]);
+    answeredWords.clear();
+    totalWords = availableWords.length;
+    answeredWordsCount = 0;
+    
+    // Add progress counter to the page
+    const statsContainer = document.querySelector('.stats');
+    if (statsContainer) {
+        const progressDiv = document.createElement('div');
+        progressDiv.className = 'stat';
+        progressDiv.innerHTML = `
+            Progress: <span class="answered-count">0</span> / <span class="total-words">${totalWords}</span> words
+        `;
+        statsContainer.appendChild(progressDiv);
+    }
+}
+
+// Get next word from queue
+function getNextWord() {
+    // Check if we need to reintroduce any words
+    const now = Date.now();
+    for (const [word, data] of answeredWords.entries()) {
+        if (!data.correct && now - data.timestamp >= 30000) { // Reintroduce after 30 seconds
+            wordQueue.push(word);
+            answeredWords.delete(word);
+        }
+    }
+
+    // If queue is empty, refill it with all words except the last used one
+    if (wordQueue.length === 0) {
+        const allWords = words.filter(word => {
+            if (gameMode.includes('-new')) {
+                return word.isNew === true && word !== currentWord;
+            }
+            return word !== currentWord;
+        });
+        wordQueue = shuffleArray([...allWords]);
+    }
+
+    return wordQueue.shift();
 }
 
 // Show next question
@@ -65,23 +131,12 @@ function showNextQuestion() {
         return;
     }
 
-    // Filter words based on game mode
-    let availableWords = words;
-    if (gameMode.includes('-new')) {
-        availableWords = words.filter(word => word.isNew);
-        if (availableWords.length === 0) {
-            document.querySelector('.game-container').innerHTML = `
-                <div class="message">
-                    No new words available. Add some new words to practice!
-                    <br><br>
-                    <a href="index.html" class="back-button">Back to menu</a>
-                </div>
-            `;
-            return;
-        }
+    currentWord = getNextWord();
+    if (!currentWord) {
+        console.error('Failed to get next word');
+        return;
     }
 
-    currentWord = availableWords[Math.floor(Math.random() * availableWords.length)];
     let question, options;
     
     switch (gameMode) {
@@ -219,9 +274,26 @@ function checkAnswer(selectedAnswer, correctAnswer = null) {
         currentWord.image
     );
     
-    if (selectedAnswer.toLowerCase() === expectedAnswer.toLowerCase()) {
+    const isCorrect = selectedAnswer.toLowerCase() === expectedAnswer.toLowerCase();
+    
+    // Track the word's status
+    if (!answeredWords.has(currentWord)) {
+        answeredWordsCount++;
+        updateProgress();
+    }
+    
+    answeredWords.set(currentWord, {
+        correct: isCorrect,
+        timestamp: Date.now()
+    });
+    
+    if (isCorrect) {
         correctAnswers++;
-        showNextQuestion();
+        if (answeredWordsCount >= totalWords) {
+            showGameCompletion();
+        } else {
+            showNextQuestion();
+        }
     } else {
         incorrectAnswers++;
         showHint();
@@ -248,6 +320,33 @@ function showHint() {
 function updateStats() {
     document.querySelector('.correct-answers').textContent = correctAnswers;
     document.querySelector('.incorrect-answers').textContent = incorrectAnswers;
+}
+
+// Update progress counter
+function updateProgress() {
+    const answeredCount = document.querySelector('.answered-count');
+    if (answeredCount) {
+        answeredCount.textContent = answeredWordsCount;
+    }
+}
+
+// Show game completion screen
+function showGameCompletion() {
+    const gameContainer = document.querySelector('.game-container');
+    const accuracy = totalWords > 0 ? Math.round((correctAnswers / totalWords) * 100) : 0;
+    
+    gameContainer.innerHTML = `
+        <h1>Task Completed!</h1>
+        <div class="completion-stats">
+            <div class="stat">Total Words: ${totalWords}</div>
+            <div class="stat">Correct Answers: ${correctAnswers}</div>
+            <div class="stat">Incorrect Answers: ${incorrectAnswers}</div>
+            <div class="stat">Accuracy: ${accuracy}%</div>
+        </div>
+        <div class="dictionary-section">
+            <a href="index.html" class="back-button">Back to menu</a>
+        </div>
+    `;
 }
 
 // Utility function to shuffle array
