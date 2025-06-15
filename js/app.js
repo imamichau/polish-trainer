@@ -7,7 +7,14 @@ let gameMode = null;
 // Initialize the game
 async function initGame() {
     try {
-        const response = await fetch('./words.json');
+        console.log('Starting to load words...');
+        const response = await fetch('./words.json?' + new Date().getTime(), {
+            headers: {
+                'Cache-Control': 'no-cache, no-store, must-revalidate',
+                'Pragma': 'no-cache',
+                'Expires': '0'
+            }
+        });
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -18,7 +25,8 @@ async function initGame() {
         }
         
         words = data.words;
-        console.log('Words loaded:', words.length);
+        console.log('Words loaded successfully. Total words:', words.length);
+        console.log('First few words:', words.slice(0, 5));
         
         const urlParams = new URLSearchParams(window.location.search);
         gameMode = urlParams.get('mode');
