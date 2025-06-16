@@ -546,5 +546,133 @@
       "image": "",
       "isNew": true
     }
+
+,
+  {
+    "pl": "Kolor",
+    "ru": "Цвет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Brązowy",
+    "ru": "Коричневый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Niebieski",
+    "ru": "Синий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czarny",
+    "ru": "Черный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Zielony",
+    "ru": "Зеленый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jeść",
+    "ru": "есть",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jem japońskie jedzenie",
+    "ru": "я ем японскую еду",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Uczyć się",
+    "ru": "учить",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Uczę się niemieckiego",
+    "ru": "я учу немецкий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czytać",
+    "ru": "читать",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "On czyta chińską książkę",
+    "ru": "",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pić",
+    "ru": "пить",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ona pije gorącą kawę",
+    "ru": "",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Leniwy",
+    "ru": "ленивый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Nieśmiała",
+    "ru": "стеснительная",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Nieuprzejmy",
+    "ru": "грубый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Bierna",
+    "ru": "пассивная",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chciwy",
+    "ru": "жадный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  }
   ]
 }
