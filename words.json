@@ -327,35 +327,35 @@
       "ru": "Или",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Duży",
       "ru": "Большой",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Garaż",
       "ru": "Гараж",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Mały",
       "ru": "Маленький",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Lubię",
       "ru": "Мне нравится",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Spać",
@@ -668,9 +668,110 @@
     "isNew": true
   },
   {
-    "pl": "Chсiwy",
-    "ru": "жадный",
-    "transcription": "Хцивы",
+    "pl": "Tęcza",
+    "ru": "радуга",
+    "transcription": "тэнча",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Różowy",
+    "ru": "розовый",
+    "transcription": "ружовы",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Złoty",
+    "ru": "золотой",
+    "transcription": "звуоты",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czerwony",
+    "ru": "красный",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Żółty",
+    "ru": "желтый",
+    "transcription": "жувты",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Szary",
+    "ru": "серый",
+    "transcription": "шары",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Biały",
+    "ru": "белый",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Srebrny",
+    "ru": "серебряный",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Fioletowy",
+    "ru": "фиолетовый",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ryż",
+    "ru": "рис",
+    "transcription": "рыж",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja jem ryż",
+    "ru": "я ем рис",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Zupa",
+    "ru": "суп",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chłopak lubi zupę",
+    "ru": "мальчик любит суп",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chleb",
+    "ru": "хлеб",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja kupuję chleb",
+    "ru": "я покупаю хлеб",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czasopismo",
+    "ru": "журнал",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kobieta czyta czasopismo",
+    "ru": "женщина читает журнал",
     "image": "",
     "isNew": true
   }
