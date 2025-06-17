@@ -691,6 +691,7 @@
   {
     "pl": "Czerwony",
     "ru": "красный",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
@@ -711,6 +712,7 @@
   {
     "pl": "Biały",
     "ru": "белый",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
@@ -723,6 +725,7 @@
   {
     "pl": "Fioletowy",
     "ru": "фиолетовый",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
@@ -736,42 +739,49 @@
   {
     "pl": "Ja jem ryż",
     "ru": "я ем рис",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Zupa",
     "ru": "суп",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Chłopak lubi zupę",
     "ru": "мальчик любит суп",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Chleb",
     "ru": "хлеб",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Ja kupuję chleb",
     "ru": "я покупаю хлеб",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Czasopismo",
     "ru": "журнал",
+    "transcription": "",
     "image": "",
     "isNew": true
   },
   {
     "pl": "Kobieta czyta czasopismo",
     "ru": "женщина читает журнал",
+    "transcription": "",
     "image": "",
     "isNew": true
   }
