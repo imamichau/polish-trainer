@@ -785,6 +785,83 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+    {
+    "pl": "Dlaczego?",
+    "ru": "Почему?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kto?",
+    "ru": "Кто?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Gdzie?",
+    "ru": "Где?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Co?",
+    "ru": "Что?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jak?",
+    "ru": "Когда?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kiedy?",
+    "ru": "Когда?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "łanda",
+    "ru": "хорошенькая",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Niski",
+    "ru": "низкий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wysoki",
+    "ru": "высокий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Uroczy",
+    "ru": "милый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Brzydki",
+    "ru": "уродливый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
   ]
 }
