@@ -862,6 +862,153 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+    {
+    "pl": "Owoc",
+    "ru": "фрукт",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jabłko",
+    "ru": "яблоко",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pomarańcza",
+    "ru": "апельсин",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Banan",
+    "ru": "банан",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Truskawka",
+    "ru": "клубника",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Malina",
+    "ru": "малина",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wewnątrz",
+    "ru": "внутрь",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wśród",
+    "ru": "среди",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pod",
+    "ru": "под",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "środkowy",
+    "ru": "средний",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "W doł",
+    "ru": "вниз",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Blisko",
+    "ru": "близко",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Na dnie",
+    "ru": "дно",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "dookoła",
+    "ru": "вокруг",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kosztować",
+    "ru": "стоить",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jeden",
+    "ru": "один",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chleb kosztuje jednego dolara.",
+    "ru": "Хлеб стоит один доллар",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Trzy",
+    "ru": "три",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Filiżanka kawa kosztuje trzy dolary.",
+    "ru": "Чашка кофе стоит три доллара.",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pięć",
+    "ru": "пять",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czasopismo kosztuje pięć dolarów",
+    "ru": "Журнал стоит пять долларов",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
   ]
 }
