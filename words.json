@@ -934,7 +934,7 @@
     "isNew": true
   },
   {
-    "pl": "W doł",
+    "pl": "W dół",
     "ru": "вниз",
     "transcription": "",
     "image": "",
@@ -1006,6 +1006,181 @@
   {
     "pl": "Czasopismo kosztuje pięć dolarów",
     "ru": "Журнал стоит пять долларов",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Warzywo",
+    "ru": "овощ",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ziemniak",
+    "ru": "картофель",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pomidor",
+    "ru": "помидор",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ogórek",
+    "ru": "огурец",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Marchewka",
+    "ru": "морковь",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chodzę",
+    "ru": "Я иду",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Nie chcę",
+    "ru": "Мне не нужно",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "mieszkam w",
+    "ru": "Я живу в",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "robię",
+    "ru": "Я делаю",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Śpię",
+    "ru": "Я сплю",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jem",
+    "ru": "Я ем",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Przychodzę",
+    "ru": "Я прихожу",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Siedzę",
+    "ru": "Я сижу",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Piję",
+    "ru": "Я пью",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Słyszę",
+    "ru": "Я слышу",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pytam",
+    "ru": "Я спрашиваю",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dzwonię",
+    "ru": "Я звоню",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jabłko",
+    "ru": "яблоко",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja jem trzy jabłka",
+    "ru": "Я ем три яблока",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Szklanka",
+    "ru": "стакан",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dwa",
+    "ru": "два",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Mężczyzna pije dwie szklanki wody",
+    "ru": "Мужчина пьет два стакана воды",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Cztery",
+    "ru": "четыре",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kupujemy cztery angielskie książki",
+    "ru": "Мы покупаем четыре книги на английском.",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Filiżanka",
+    "ru": "Чашка",
     "transcription": "",
     "image": "",
     "isNew": true
