@@ -1184,6 +1184,78 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+
+  {
+    "pl": "My jesteśmy czteroosobową rodziną",
+    "ru": "Мы семья из четырех человек",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "To jest mój ojciec",
+    "ru": "Это мой отец",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "To jest moja matka",
+    "ru": "Это моя мать",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Syn",
+    "ru": "сын",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "To jest twój syn",
+    "ru": "Это ваш сын",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Mięso",
+    "ru": "Мясо",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kurczak",
+    "ru": "Курица",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wołowina",
+    "ru": "Говядина",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wieprzowina",
+    "ru": "Свинина",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kiełbasa",
+    "ru": "Колбаса",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
+
   ]
 }
