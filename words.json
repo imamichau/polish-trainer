@@ -1525,6 +1525,139 @@
       "transcription": "",
       "image": "",
       "isNew": true
-    }
+    },
+    {
+    "pl": "Ile",
+    "ru": "Сколько?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Rok",
+    "ru": "Год",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Miesiąc",
+    "ru": "Месяц",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jedenaście",
+    "ru": "11",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ta dziewczyna ma jedenaście lat.",
+    "ru": "Этой девочке 11 лет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Osiemnaście",
+    "ru": "18",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dziewczyna ma osiemnaście lat.",
+    "ru": "Девушке 18 лет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dwadzieścia",
+    "ru": "20",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "On ma dwadzieścia lat.",
+    "ru": "Ему 20 лет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Trzydzieści",
+    "ru": "30",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ona ma trzydzieści lat.",
+    "ru": "Ей 30 лет.",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pszenica",
+    "ru": "Пшеница",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ryż",
+    "ru": "Рис",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kukurydza",
+    "ru": "Кукуруза",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Orzech",
+    "ru": "Орех",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Cukier",
+    "ru": "Сахар",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Sól",
+    "ru": "Соль",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czarny pieprz",
+    "ru": "Чёрный перец",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Olej",
+    "ru": "Растительное масло",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  }
   ]
 }
