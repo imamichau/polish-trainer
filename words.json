@@ -1819,6 +1819,153 @@
       "transcription": "",
       "image": "",
       "isNew": true
+    },
+    {
+      "pl": "Pokarm",
+      "ru": "Пища",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Śniadanie",
+      "ru": "Завтрак",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Obiad",
+      "ru": "Обед",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Kolacja",
+      "ru": "Ужин",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Wschód słońca",
+      "ru": "Восход",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Poranek",
+      "ru": "Утро",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Południe",
+      "ru": "Полдень",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Dzień",
+      "ru": "День",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Popołudnie",
+      "ru": "Вторая половина дня",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Wieczór",
+      "ru": "Вечер",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Zachód słońca",
+      "ru": "Закат",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Północ",
+      "ru": "Полночь",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Noc",
+      "ru": "Ночь",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ważyć",
+      "ru": "Весить",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ważę czterdzieści jeden kilogramów.",
+      "ru": "Я вешу 41 килограмм.",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Kilogram",
+      "ru": "Килограмм",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Mój ojciec waży osiemdziesiąt pięć kilogramów.",
+      "ru": "Мой отец весит 85 килограммов.",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Wysoki",
+      "ru": "Высокий",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Mam 158 centymetrów wzrostu.",
+      "ru": "Мой рост составляет 158 сантиметров.",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Centymetr",
+      "ru": "Сантиметр",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Tamta kobieta ma 180 centymetrów wzrostu.",
+      "ru": "Рост этой женщины составляет 180 сантиметров",
+      "transcription": "",
+      "image": "",
+      "isNew": true
     }
   ]
 }
