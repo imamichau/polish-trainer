@@ -2057,6 +2057,56 @@
       "transcription": "",
       "image": "",
       "isNew": true
-    }
+    },
+    {
+    "pl": "Każdy",
+    "ru": "все",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Nikt",
+    "ru": "никто",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ludzie",
+    "ru": "люди",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Słodki",
+    "ru": "сладкий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Słony",
+    "ru": "соленый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kwaśny",
+    "ru": "кислый",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Gorzki",
+    "ru": "горький",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  }
+
   ]
 }
