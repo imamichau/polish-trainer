@@ -1783,7 +1783,7 @@
       "ru": "14",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Tamten mężczyzna mieszka na czternastym piętrze",
@@ -1797,28 +1797,28 @@
       "ru": "Конфета",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Czekolada",
       "ru": "Шоколад",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Lizak",
       "ru": "Леденец",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Miód",
       "ru": "Мед",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Pokarm",
@@ -1972,7 +1972,7 @@
       "ru": "Суп",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Sałatka",
@@ -2007,14 +2007,14 @@
       "ru": "Студент",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "istrueNew": false
     },
     {
       "pl": "Student czyta książkę",
       "ru": "Студент читает книжку",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Tysiąc",
@@ -2106,7 +2106,147 @@
     "transcription": "",
     "image": "",
     "isNew": true
-  }
+  },
 
+  {
+    "pl": "Rodzic",
+    "ru": "родитель",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Człowiek",
+    "ru": "человек",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dzieci",
+    "ru": "дети",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ty",
+    "ru": "вы",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jesteś piękna!",
+    "ru": "ты очень красивая!",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "On jest zabawny",
+    "ru": "он забавный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Źle się czuję",
+    "ru": "мне плохо",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja",
+    "ru": "я",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "My",
+    "ru": "мы",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Jesteśmy małżeństwem",
+    "ru": "мы женаты",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Woda",
+    "ru": "вода",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Herbata",
+    "ru": "чай",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kawa",
+    "ru": "кофе",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Sok",
+    "ru": "сок",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Piosenka",
+    "ru": "песня",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Japońska piosenka",
+    "ru": "японская песня",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Słuchać",
+    "ru": "слушать",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja słucham chińskiej piosenki",
+    "ru": "я слушаю китайскую песню",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Śpiewać",
+    "ru": "петь",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "On śpiewa angielską piosenkę",
+    "ru": "он поет английскую песенку",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  }
   ]
 }
