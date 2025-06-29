@@ -362,98 +362,98 @@
       "ru": "Спать",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "On śpi",
       "ru": "Он спит",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Robić zakupy",
       "ru": "Делать покупки",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Chodzę na zakupy",
       "ru": "Я хожу на за покупками",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Oglądać film",
       "ru": "Смотреть фильм",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Oglądasz film",
       "ru": "Ты смотришь фильм",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Mòwić",
       "ru": "Говорить",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Mòwisz",
       "ru": "Ты говоришь",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Biegać",
       "ru": "Бегать",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ona biega",
       "ru": "Она бегает",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Dorosły",
       "ru": "Взрослый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Niemowlę",
       "ru": "Младенец",
       "transcription": "нимовле",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Dziecko",
       "ru": "Ребенок",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Nastolatek",
       "ru": "Подросток",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Cieszę się ",
@@ -467,77 +467,77 @@
       "ru": "Китайская книга",
       "transcription": "хиньска ксьонжка",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Jedzenie",
       "ru": "Еда",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Japońskie jedzenie",
       "ru": "Японская еда",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kawa",
       "ru": "Кофе",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Gorąca kawa",
       "ru": "Горячий кофе",
       "transcription": "горонца кава",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Gazeta",
       "ru": "Газета",
       "transcription": "газэта",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Angielska gazeta",
       "ru": "Английская газета",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Aktywna",
       "ru": "Активная",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Przyjazna",
       "ru": "Дружелюбная",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Zabawny",
       "ru": "забавный",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Miły",
       "ru": "добрый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Bystry",
@@ -551,35 +551,35 @@
       "ru": "Цвет",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Brązowy",
       "ru": "Коричневый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Niebieski",
       "ru": "Синий",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Czarny",
       "ru": "Черный",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Zielony",
       "ru": "Зеленый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Jeść",
@@ -607,42 +607,42 @@
       "ru": "я учу немецкий",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Czytać",
       "ru": "читать",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "On czyta chińską książkę",
       "ru": "она читает китайскую книгу",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Pić",
       "ru": "пить",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ona pije gorącą kawę",
       "ru": "она пьет горячий кофе",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Leniwy",
       "ru": "ленивый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Nieśmiała",
@@ -677,77 +677,77 @@
       "ru": "розовый",
       "transcription": "ружовы",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Złoty",
       "ru": "золотой",
       "transcription": "звуоты",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Czerwony",
       "ru": "красный",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Żółty",
       "ru": "желтый",
       "transcription": "жувты",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Szary",
       "ru": "серый",
       "transcription": "шары",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Biały",
       "ru": "белый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Srebrny",
       "ru": "серебряный",
       "transcription": "Срэбрны",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Fioletowy",
       "ru": "фиолетовый",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ryż",
       "ru": "рис",
       "transcription": "рыж",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ja jem ryż",
       "ru": "я ем рис",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Zupa",
       "ru": "суп",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Chłopak lubi zupę",
@@ -761,7 +761,7 @@
       "ru": "хлеб",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ja kupuję chleb",
@@ -775,7 +775,7 @@
       "ru": "журнал",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kobieta czyta czasopismo",
@@ -796,35 +796,35 @@
       "ru": "Кто?",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Gdzie?",
       "ru": "Где?",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Co?",
       "ru": "Что?",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Jak?",
       "ru": "Как?",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kiedy?",
       "ru": "Когда?",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "ładna",
@@ -838,14 +838,14 @@
       "ru": "низкий",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Wysoki",
       "ru": "высокий",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Uroczy",
@@ -873,21 +873,21 @@
       "ru": "яблоко",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Pomarańcza",
       "ru": "апельсин",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Banan",
       "ru": "банан",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Truskawka",
@@ -901,7 +901,7 @@
       "ru": "малина",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Wewnątrz",
@@ -971,7 +971,7 @@
       "ru": "один",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Chleb kosztuje jednego dolara.",
@@ -985,7 +985,7 @@
       "ru": "три",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Filiżanka kawa kosztuje trzy dolary.",
@@ -999,7 +999,7 @@
       "ru": "пять",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Czasopismo kosztuje pięć dolarów",
@@ -1027,14 +1027,14 @@
       "ru": "помидор",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ogórek",
       "ru": "огурец",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Marchewka",
@@ -1132,7 +1132,7 @@
       "ru": "яблоко",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ja jem trzy jabłka",
@@ -1153,7 +1153,7 @@
       "ru": "два",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Mężczyzna pije dwie szklanki wody",
@@ -1167,7 +1167,7 @@
       "ru": "четыре",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kupujemy cztery angielskie książki",
@@ -1202,14 +1202,14 @@
       "ru": "Это моя мать",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Syn",
       "ru": "сын",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "To jest twój syn",
@@ -1223,63 +1223,63 @@
       "ru": "Мясо",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kurczak",
       "ru": "Курица",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Wołowina",
       "ru": "Говядина",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Wieprzowina",
       "ru": "Свинина",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kiełbasa",
       "ru": "Колбаса",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ryba",
       "ru": "рыба",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Łosoś",
       "ru": "семга",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Krewetka",
       "ru": "креветка",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Krab",
       "ru": "краб",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Spotykam się",
@@ -1328,7 +1328,7 @@
       "ru": "старшая сестра",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ona jest jego starszą siostrą",
@@ -1342,7 +1342,7 @@
       "ru": "старший брат",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "On jest jej starszym bratem",
@@ -1356,7 +1356,7 @@
       "ru": "младшая сестра",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Mam dwie młodsze siostry",
@@ -1370,7 +1370,7 @@
       "ru": "младший брат",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Masz jednego młodszego brata",
@@ -1384,35 +1384,35 @@
       "ru": "Молоко",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Masło",
       "ru": "Масло",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Ser",
       "ru": "Сыр",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Jajko",
       "ru": "Яйцо",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Chleb",
       "ru": "Хлеб",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Bułka",
@@ -1615,7 +1615,7 @@
       "ru": "Рис",
       "transcription": "",
       "image": "",
-      "isNew": true
+      "isNew": false
     },
     {
       "pl": "Kukurydza",
@@ -1783,7 +1783,7 @@
       "ru": "14",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Tamten mężczyzna mieszka na czternastym piętrze",
@@ -1797,28 +1797,28 @@
       "ru": "Конфета",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Czekolada",
       "ru": "Шоколад",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Lizak",
       "ru": "Леденец",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Miód",
       "ru": "Мед",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Pokarm",
@@ -2007,14 +2007,14 @@
       "ru": "Студент",
       "transcription": "",
       "image": "",
-      "istrueNew": false
+      "isNew": true
     },
     {
       "pl": "Student czyta książkę",
       "ru": "Студент читает книжку",
       "transcription": "",
       "image": "",
-      "isNew": false
+      "isNew": true
     },
     {
       "pl": "Tysiąc",
@@ -2059,194 +2059,193 @@
       "isNew": true
     },
     {
-    "pl": "Każdy",
-    "ru": "все",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Nikt",
-    "ru": "никто",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Ludzie",
-    "ru": "люди",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Słodki",
-    "ru": "сладкий",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Słony",
-    "ru": "соленый",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Kwaśny",
-    "ru": "кислый",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Gorzki",
-    "ru": "горький",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-
-  {
-    "pl": "Rodzic",
-    "ru": "родитель",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Człowiek",
-    "ru": "человек",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Dzieci",
-    "ru": "дети",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Ty",
-    "ru": "вы",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Jesteś piękna!",
-    "ru": "ты очень красивая!",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "On jest zabawny",
-    "ru": "он забавный",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Źle się czuję",
-    "ru": "мне плохо",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Ja",
-    "ru": "я",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "My",
-    "ru": "мы",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Jesteśmy małżeństwem",
-    "ru": "мы женаты",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Woda",
-    "ru": "вода",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Herbata",
-    "ru": "чай",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Kawa",
-    "ru": "кофе",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Sok",
-    "ru": "сок",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Piosenka",
-    "ru": "песня",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Japońska piosenka",
-    "ru": "японская песня",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Słuchać",
-    "ru": "слушать",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Ja słucham chińskiej piosenki",
-    "ru": "я слушаю китайскую песню",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "Śpiewać",
-    "ru": "петь",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  },
-  {
-    "pl": "On śpiewa angielską piosenkę",
-    "ru": "он поет английскую песенку",
-    "transcription": "",
-    "image": "",
-    "isNew": true
-  }
+      "pl": "Każdy",
+      "ru": "все",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Nikt",
+      "ru": "никто",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ludzie",
+      "ru": "люди",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Słodki",
+      "ru": "сладкий",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Słony",
+      "ru": "соленый",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Kwaśny",
+      "ru": "кислый",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Gorzki",
+      "ru": "горький",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Rodzic",
+      "ru": "родитель",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Człowiek",
+      "ru": "человек",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Dzieci",
+      "ru": "дети",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ty",
+      "ru": "вы",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Jesteś piękna!",
+      "ru": "ты очень красивая!",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "On jest zabawny",
+      "ru": "он забавный",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Źle się czuję",
+      "ru": "мне плохо",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ja",
+      "ru": "я",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "My",
+      "ru": "мы",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Jesteśmy małżeństwem",
+      "ru": "мы женаты",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Woda",
+      "ru": "вода",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Herbata",
+      "ru": "чай",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Kawa",
+      "ru": "кофе",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Sok",
+      "ru": "сок",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Piosenka",
+      "ru": "песня",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Japońska piosenka",
+      "ru": "японская песня",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Słuchać",
+      "ru": "слушать",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Ja słucham chińskiej piosenki",
+      "ru": "я слушаю китайскую песню",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "Śpiewać",
+      "ru": "петь",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    },
+    {
+      "pl": "On śpiewa angielską piosenkę",
+      "ru": "он поет английскую песенку",
+      "transcription": "",
+      "image": "",
+      "isNew": true
+    }
   ]
 }
