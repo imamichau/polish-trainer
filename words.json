@@ -2610,7 +2610,99 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+  {
+    "pl": "Nóż",
+    "ru": "нож",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Piekarnik",
+    "ru": "духовка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Łyżka",
+    "ru": "ложка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kuchenka mikrofalowa",
+    "ru": "микроволновая печь",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Talerz",
+    "ru": "тарелка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Miska",
+    "ru": "миска",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kuchnia",
+    "ru": "кухня",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Książka kucharska",
+    "ru": "кулинарная книга",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Gotuję",
+    "ru": "я готовлю",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pudełko",
+    "ru": "коробка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Szczotka",
+    "ru": "щетка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Miotła",
+    "ru": "метла",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Gąbka",
+    "ru": "губка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
+
 
   ]
 }
