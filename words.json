@@ -3108,9 +3108,38 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+
+  {
+    "pl": "Mydło",
+    "ru": "Мыло",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Szczoteczka do zębów",
+    "ru": "Зубная щётка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Papier toaletowy",
+    "ru": "Туалетная бумага",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pasta do zębów",
+    "ru": "Зубная паста",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
+]
 
 
-
-  ]
+  
 }
