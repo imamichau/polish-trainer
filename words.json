@@ -3137,9 +3137,142 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+
+  {
+    "pl": "My mamy zupę warzywną",
+    "ru": "У нас есть овощной суп",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "W tej zupie jest marchewka i kurczak",
+    "ru": "В супе есть морковь и курица",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "W tej potrawie są ziemniaki i wieprzowina",
+    "ru": "В блюде есть картофель и свинина",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "W smażonym ryżu są pomidory",
+    "ru": "В жареном рисе есть помидоры",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kelnerka",
+    "ru": "Официантка",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kelner",
+    "ru": "Официант",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Z lodem?",
+    "ru": "Со льдом?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Smacznego!",
+    "ru": "Приятного аппетита",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Coś do picia?",
+    "ru": "Напитки будете заказывать?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czy coś jeszcze?",
+    "ru": "Что-нибудь еще?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Poproszę makaron",
+    "ru": "Мне макароны, пожалуйста",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Mam alergię na orzeszki ziemne",
+    "ru": "У меня аллергия на арахис",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Pyszne",
+    "ru": "Превосходно",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Co Pan poleca?",
+    "ru": "Что вы порекомендуете?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Krem",
+    "ru": "Крем",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Szminka",
+    "ru": "Помада",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Perfumy",
+    "ru": "Духи",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Puder",
+    "ru": "Пудра",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Dezodorant",
+    "ru": "Дезодорант",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
 ]
-
 
   
 }
