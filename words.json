@@ -3271,6 +3271,91 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+
+  {
+    "pl": "Wzajemnie!",
+    "ru": "Взаимно",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Trzymaj się!",
+    "ru": "Береги себя",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Baw się dobrze!",
+    "ru": "Хорошо повеселиться",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Powodzenia!",
+    "ru": "Удачи",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Móc",
+    "ru": "Мочь",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja mogę to zrobić",
+    "ru": "Я могу это сделать",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Chili",
+    "ru": "Перец чили",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Możesz jeść chili?",
+    "ru": "Вы можете есть перец чили?",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Czosnek",
+    "ru": "Чеснок",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "On może jeść czosnek",
+    "ru": "Он может есть чеснок",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Mięta",
+    "ru": "Мята",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ja nie mogę jeść mięty",
+    "ru": "Я не могу есть мяту",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
 ]
 
