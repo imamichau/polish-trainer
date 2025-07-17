@@ -3427,8 +3427,129 @@
     "transcription": "",
     "image": "",
     "isNew": true
+  },
+  
+  {
+    "pl": "Mrożony",
+    "ru": "Замороженный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Mrożone truskawki nie są smaczne",
+    "ru": "Замороженная клубника не вкусная",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Świeży",
+    "ru": "Свежий",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Świeże truskawki są bardzo smaczne",
+    "ru": "Свежая клубника очень вкусная",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Wysuszone",
+    "ru": "Сушёный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Suszone brzoskwinie nie są smaczne",
+    "ru": "Сушёный персик не вкусный",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Skrzynka",
+    "ru": "Ящик",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ona chce kupić skrzynkę gruszek",
+    "ru": "Она хочет купить ящик груш",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Kino",
+    "ru": "Кинотеатр",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Film",
+    "ru": "Фильм",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Ekran",
+    "ru": "Экран",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Komedia",
+    "ru": "Комедия",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Teatr",
+    "ru": "Театр",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Sztuka",
+    "ru": "Пьеса",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Balet",
+    "ru": "Балет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Koncert",
+    "ru": "Концерт",
+    "transcription": "",
+    "image": "",
+    "isNew": true
+  },
+  {
+    "pl": "Bilet",
+    "ru": "Билет",
+    "transcription": "",
+    "image": "",
+    "isNew": true
   }
 ]
+
 
   
 }
