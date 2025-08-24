@@ -3821,7 +3821,8 @@
 {"pl": "Członek", "ru": "член (не участник)", "transcription": "", "image": "", "isNew": true},
 {"pl": "Szachy", "ru": "шахматы", "transcription": "", "image": "", "isNew": true},
 {"pl": "Jestem wolontariuszem", "ru": "Я волонтер", "transcription": "волонтариушем", "image": "", "isNew": true},
-{"pl": "Piszę do szkolnej gazetki", "ru": "Я пишу для газеты", "transcription": "", "image": "", "isNew": true}
+{"pl": "Piszę do szkolnej gazetki", "ru": "Я пишу для газеты", "transcription": "", "image": "", "isNew": true},
+{"pl": "Jestem programistą", "ru": "Я программист", "transcription": "", "image": "", "isNew": true}
 
 ]
 
