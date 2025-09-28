@@ -1,5 +1,48 @@
 {
   "words": [
+  {"pl": "Sala gimnastyczna", "ru": "спортзал", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ćwiczenie", "ru": "упражнение", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Fitness", "ru": "фитнес", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Trenować", "ru": "тренироваться", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Sport", "ru": "спорт", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Drużyna", "ru": "команда", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Mistrz", "ru": "чемпион", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Medal", "ru": "медаль", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Zwycięstwo", "ru": "победа", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Z", "ru": "из", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ona chodzi z domu do szkoły", "ru": "Из дома в школу она ходит пешком", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Do", "ru": "к", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ona idzie stąd na przystanek autobusowy", "ru": "Она идет отсюда к автобусной остановке", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Skrzyżowanie", "ru": "перекрёсток", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Stąd", "ru": "отсюда", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Skrzyżowanie jest pięćdziesiąt metrów stąd", "ru": "Перекрёсток в пятидесяти метрах отсюда", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Przekroczyć", "ru": "переходить", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ja przechodzę przez drogę", "ru": "Я перехожу дорогу", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Skręcić w lewo", "ru": "поворачивать налево", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Proszę skręcić w lewo", "ru": "Пожалуйста, поверните налево", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Skręcić w prawo", "ru": "поворачивать направо", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Proszę skręcić w prawo na rogu", "ru": "Пожалуйста, на углу поверните направо", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Iść prosto", "ru": "идти прямо", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Proszę iść prosto na róg", "ru": "Пожалуйста, на углу идите прямо", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Zatrzymać się", "ru": "останавливаться", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Proszę zatrzymać się tutaj", "ru": "Пожалуйста, остановитесь здесь", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Światła drogowe", "ru": "светофор", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Proszę skręcić w lewo na światłach drogowych", "ru": "Пожалуйста, поверните налево на светофоре", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Iść", "ru": "идти", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ja idę do szkoły", "ru": "Я иду в школу", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Wsiąść do autobusu", "ru": "садиться в автобус", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Wsiadasz do autobusu", "ru": "Вы садитесь в автобус", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Wysiąść z autobusu", "ru": "выходить из автобуса", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ona wysiada z autobusu", "ru": "Она выходит из автобуса", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Przystanek autobusowy", "ru": "автобусная остановка", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Idziesz na przystanek autobusowy", "ru": "Вы идёте на автобусную остановку", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Następny", "ru": "следующий", "transcription": "", "image": "", "isNew": true},
+  {"pl": "On wysiada z autobusu na następnym przystanku autobusowym", "ru": "Он выходит из автобуса на следующей автобусной остановке", "transcription": "", "image": "", "isNew": true},
+
+
     {
       "pl": "Cześć",
       "ru": "Привет",
