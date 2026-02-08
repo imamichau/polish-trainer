@@ -76,6 +76,22 @@ function initializeWordQueue() {
         }
     }
     
+    // For 20-word modes, select 20 random words
+    if (gameMode.includes('-20')) {
+        const shuffled = shuffleArray([...availableWords]);
+        availableWords = shuffled.slice(0, Math.min(20, shuffled.length));
+        if (availableWords.length === 0) {
+            document.querySelector('.game-container').innerHTML = `
+                <div class="message">
+                    No words available for this mode.
+                    <br><br>
+                    <a href="index.html" class="back-button">Back to menu</a>
+                </div>
+            `;
+            return;
+        }
+    }
+    
     // Shuffle the words and create initial queue
     wordQueue = shuffleArray([...availableWords]);
     answeredWords.clear();
@@ -106,7 +122,8 @@ function getNextWord() {
     }
 
     // If queue is empty, refill it with all words except the last used one
-    if (wordQueue.length === 0) {
+    // For 20-word modes, don't refill - just use the 20 selected words
+    if (wordQueue.length === 0 && !gameMode.includes('-20')) {
         const allWords = words.filter(word => {
             if (gameMode.includes('-new')) {
                 return word.isNew === true && word !== currentWord;
@@ -142,11 +159,13 @@ function showNextQuestion() {
     switch (gameMode) {
         case 'pl-to-ru':
         case 'pl-to-ru-new':
+        case 'pl-to-ru-20':
             question = currentWord.pl;
             options = getRandomOptions(currentWord.ru, 'ru');
             break;
         case 'ru-to-pl':
         case 'ru-to-pl-new':
+        case 'ru-to-pl-20':
             question = currentWord.ru;
             options = getRandomOptions(currentWord.pl, 'pl');
             break;
@@ -269,8 +288,8 @@ function getRandomImageOptions(correctImage) {
 // Check answer
 function checkAnswer(selectedAnswer, correctAnswer = null) {
     const expectedAnswer = correctAnswer || (
-        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' ? currentWord.ru :
-        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' ? currentWord.pl :
+        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' || gameMode === 'pl-to-ru-20' ? currentWord.ru :
+        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' || gameMode === 'ru-to-pl-20' ? currentWord.pl :
         currentWord.image
     );
     
@@ -289,6 +308,7 @@ function checkAnswer(selectedAnswer, correctAnswer = null) {
     
     if (isCorrect) {
         correctAnswers++;
+        // For 20-word modes, check if we've answered all 20 words
         if (answeredWordsCount >= totalWords) {
             showGameCompletion();
         } else {
@@ -307,9 +327,9 @@ function showHint() {
     const hint = document.createElement('div');
     hint.className = 'hint';
     hint.textContent = `Correct answer: ${
-        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' || 
+        gameMode === 'pl-to-ru' || gameMode === 'pl-to-ru-new' || gameMode === 'pl-to-ru-20' ||
         gameMode === 'pl-to-ru-input' || gameMode === 'pl-to-ru-input-new' ? currentWord.ru :
-        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' || 
+        gameMode === 'ru-to-pl' || gameMode === 'ru-to-pl-new' || gameMode === 'ru-to-pl-20' ||
         gameMode === 'ru-to-pl-input' || gameMode === 'ru-to-pl-input-new' ? currentWord.pl :
         'Try again'
     }`;
