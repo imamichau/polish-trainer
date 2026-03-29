@@ -1,5 +1,39 @@
 {
   "words": [
+  {"pl": "Zamknij drzwi, proszę", "ru": "закрой дверь, пожалуйста", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Otwórz na stronę 54", "ru": "откройте на странице 54", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Czy mogę skorzystać z toalety", "ru": "извините, можно в туалет", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Siadaj", "ru": "садитесь, пожалуйста", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Chłopiec", "ru": "мальчик", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Pracujcie w parach", "ru": "работайте в парах", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Jak wymówić", "ru": "как произносится?", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Rozmiar", "ru": "размер", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ta koszulka jest w trzech rozmiarach", "ru": "эта рубашка есть в трёх размерах", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Przymierzać", "ru": "примерять", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ona przymierza tamtą czarną koszulkę z krótkimi rękawami", "ru": "она примеряет ту чёрную футболку с короткими рукавами", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ja przymierzę spodnie w średnim rozmiarze", "ru": "я примерю брюки среднего размера", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Sukienka", "ru": "платье", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Koszula", "ru": "рубашка", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Spódnica", "ru": "юбка", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Sweter", "ru": "свитер", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Spodnie", "ru": "брюки", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Płaszcz", "ru": "пальто", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Czytam", "ru": "я читаю", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Uczę się", "ru": "я учусь", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Uczę", "ru": "я учу", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Robię notatki", "ru": "я записываю", "transcription": "", "image": "", "isNew": true},
+
+  {"pl": "Biblioteka", "ru": "библиотека", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Członek", "ru": "участник", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Praca domowa", "ru": "домашнее задание", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Ćwiczę", "ru": "я тренируюсь", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Tekst", "ru": "текст", "transcription": "", "image": "", "isNew": true},
+  {"pl": "Zwracam uwagę", "ru": "я внимателен", "transcription": "", "image": "", "isNew": true},
+
   {"pl": "Oszołomiona", "ru": "испытывающая головокружение", "transcription": "", "image": "", "isNew": true},
   {"pl": "Spragniona", "ru": "испытывающая жажду", "transcription": "", "image": "", "isNew": true},
   {"pl": "Zmęczony", "ru": "уставший", "transcription": "", "image": "", "isNew": true},
